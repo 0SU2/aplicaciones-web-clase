@@ -1,0 +1,19 @@
+span {
+    /* por etiqueta */
+    font-size: 40px;
+}
+
+#principal{
+    /* por identificador */
+}
+
+.nombreClase{
+    /* por nomre de clase */
+}
+
+.nombreClase, .nombreClase2 {
+    /* se aplica el mismo css a dos elementos*/
+}
+
+body > header > span {
+}
